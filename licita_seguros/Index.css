@@ -1,0 +1,11 @@
+/* Importa Bootstrap primero si lo usas vía CDN o npm */
+/* @import url('https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css'); */
+
+/* Importa los estilos personalizados */
+@import "./app.css";
+
+/* Puedes agregar aquí estilos globales adicionales si lo necesitas */
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
