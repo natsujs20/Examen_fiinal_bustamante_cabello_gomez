@@ -45,7 +45,7 @@ licita_seguros/
 
 ```
 
-### 🚀 Instrucciones de uso
+### Instrucciones de uso
 
 1.  Instalar dependencias:
 
